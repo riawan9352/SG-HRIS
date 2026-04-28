@@ -2,7 +2,8 @@ fastapi
 uvicorn[standard]
 sqlalchemy
 pydantic[email]
-passlib[bcrypt]
+passlib
 python-jose[cryptography]
 python-multipart
 apscheduler
+httpx
